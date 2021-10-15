@@ -2,7 +2,6 @@ import PropTypes from "prop-types"
 
 import PropTypes from "prop-types";
 import React, {useState, useEffect} from 'react';
-
 import { GoTrashcan, GoCheck } from 'react-icons/go';
 
 import './styles.css'
